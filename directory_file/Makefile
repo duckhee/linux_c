@@ -1,6 +1,6 @@
 CC = gcc
 
-SRCS = 22_1.c
+SRCS = 22_1.c 22_2.c 22_3.c 22_4.c 22_5.c
 
 BUILDDIR = build
 
